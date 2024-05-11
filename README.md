@@ -1,3 +1,5 @@
+[![Lint](https://github.com/obaland/vfiler-action-yanktree/actions/workflows/lint.yml/badge.svg)](https://github.com/obaland/vfiler.vim/actions/workflows/lint.yml)
+
 # vfiler-action-yanktree
 
 This project is an extension plugin for `vfiler.vim` that provides the functionality to copy the filesystem tree structure to the clipboard. This plugin uses the `tree` command internally, so the `tree` command is necessary.
